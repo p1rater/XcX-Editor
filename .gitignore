@@ -1,0 +1,58 @@
+# Compiled binary
+xcx
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Object directory
+obj/
+build/
+bin/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+*.egg-info/
+
+# GPG / signature files (optional, usually don't ignore)
+# xcx.asc
+# xcx.sha256
+# xcx-pubkey.asc
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+*.iml
+*.user
+*.suo
+*.sln
+
+# Compiled documentation
+*.aux
+*.pdf
+*.dvi
+
+# Makefile artifacts
+.deps/
+.dirstamp
+*.d
+
+# Test outputs
+test/
+tests/*.out
+test_result*
