@@ -51,13 +51,13 @@ make
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│ ═══ XcX Editor ═══  main.py*  ══  Blue                              │ ← title + theme name
+│ ═══ XcX Editor ═══  main.py*  ══  Blue                               │ ← title + theme name
 ├──────────────┬─┬──────┬──────────────────────────────────────────────┤
-│   EXPLORER   │g│  1   │  import os                                  │
-│ ▾ src        │u│  2   │  import sys                                 │
+│   EXPLORER   │g│  1   │  import os                                   │
+│ ▾ src        │u│  2   │  import sys                                  │
 │   main.py    │t│  3   │                                              │
-│   utils.py   │t│  4   │  def main():                                │
-│ ▸ tests      │ │  5   │      print("hello")                         │
+│   utils.py   │t│  4   │  def main():                                 │
+│ ▸ tests      │ │  5   │      print("hello")                          │
 │              │ │  6   │                                              │
 │              │ │  7   │                                              │
 ├──────────────┴─┴──────┴──────────────────────────────────────────────┤
