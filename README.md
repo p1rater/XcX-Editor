@@ -61,9 +61,9 @@ make
 │              │ │  6   │                                              │
 │              │ │  7   │                                              │
 ├──────────────┴─┴──────┴──────────────────────────────────────────────┤
-│ F1 Help  ^O Save  ^W Search  ^K Cut  ^U Paste  ^A Mark  ^L Goto  ^Q │ ← shortcut bar
+│ F1 Help  ^O Save  ^W Search  ^K Cut  ^U Paste  ^A Mark  ^L Goto  ^Q  │ ← shortcut bar
 ├──────────────────────────────────────────────────────────────────────┤
-│ INSERT  main.py ●    XcX v2.0       Ln 4,9  6L  4sp  py  ◆ Blue     │ ← status bar
+│ INSERT  main.py ●    XcX v2.0       Ln 4,9  6L  4sp  py  ◆ Blue      │ ← status bar
 └──────────────────────┬───────────────────────────────────────────────┘
                        │
                   ◆ current theme
